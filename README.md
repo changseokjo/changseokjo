@@ -8,7 +8,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changseokjo&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-# 📚Skills
+<!--# 📚Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -25,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
-![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white)
+![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white) -->
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://inblog.ai/yulini1022/)](https://inblog.ai/yulini1022/)
